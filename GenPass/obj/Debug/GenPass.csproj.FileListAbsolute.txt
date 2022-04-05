@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\GenPass\GenPass\bin\Debug\GenPass.exe.config
+C:\Users\Александр\source\repos\GenPass\GenPass\bin\Debug\GenPass.exe
+C:\Users\Александр\source\repos\GenPass\GenPass\bin\Debug\GenPass.pdb
+C:\Users\Александр\source\repos\GenPass\GenPass\obj\Debug\GenPass.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\GenPass\GenPass\obj\Debug\GenPass.Form1.resources
+C:\Users\Александр\source\repos\GenPass\GenPass\obj\Debug\GenPass.Properties.Resources.resources
+C:\Users\Александр\source\repos\GenPass\GenPass\obj\Debug\GenPass.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\GenPass\GenPass\obj\Debug\GenPass.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\GenPass\GenPass\obj\Debug\GenPass.exe
+C:\Users\Александр\source\repos\GenPass\GenPass\obj\Debug\GenPass.pdb
